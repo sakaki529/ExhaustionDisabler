@@ -1,0 +1,9 @@
+author = Cleyera
+version = 0.0.0.2
+displayName = Exhaustion Disabler
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
+modReferences = ThoriumMod
