@@ -6,4 +6,5 @@ hideResources = true
 includeSource = false
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
 includePDB = false
+side = Client
 modReferences = ThoriumMod
