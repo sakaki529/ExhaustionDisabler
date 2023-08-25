@@ -1,5 +1,5 @@
 author = Cleyera
-version = 0.0.0.4
+version = 0.0.0.5
 displayName = Exhaustion Disabler
 hideCode = true
 hideResources = true
